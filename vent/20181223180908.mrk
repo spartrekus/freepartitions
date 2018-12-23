@@ -1,0 +1,64 @@
+
+!tex
+!gfx
+\usepackage[margin=0.5cm]{geometry}
+!begin
+
+!title Vent
+!author Piano
+!date 2018
+!maketitle
+
+///!img[0.6]{20181223180901-vent.jpg}
+
+
+\huge
+
+!btable 6
+| 3 | 3 | 3 | 3 | 3 | 3 |
+| mi | mi | mi, | mi  | mi | mi | 
+!etable
+
+
+!btable 5
+| 3 | 5 | 1 | 2 | 3 |
+| mi | sol | do, | re  | mi | 
+!etable
+
+ 
+
+!btable 6
+| 4 | 4 | 4 | 3 | 3 | 3 |
+| fa | fa | fa, | mi  | mi | mi | 
+!etable
+
+
+!btable 6
+| 2 | 2 | 2 | 3 | 2 | 5 |
+| re | re | re  | mi  | re | sol! | 
+!etable
+
+
+
+
+!btable 6
+| 3 | 3 | 3 |3 | 3 | 3 |
+| mi | mi | mi  | mi  | mi | mi | 
+!etable
+
+!btable 6
+| 3 | 5 | 1 | 2 | 3 |
+| mi | sol | do  | re | mi |
+!etable
+
+!btable 6
+| 4 | 4 | 4 | 3 | 3 | 3 |
+| fa | fa | fa, | mi  | mi | mi | 
+!etable
+
+!btable 6
+| 3 | 5 | 5 | 4 | 2 | 1 |
+| mi | sol | sol | fa  | re |  do |
+!etable
+
+
